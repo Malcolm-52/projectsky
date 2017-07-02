@@ -855,6 +855,9 @@ h6,
   color: #ffffff;
   font-family: 'Oswald', sans-serif;
 }
+#header3-n SMALL {
+  color: #ffffff;
+}
 #features3-f .btn {
   font-size: 14px;
 }
@@ -878,6 +881,7 @@ h6,
 #footer1-b P {
   color: #ffffff;
 }
+
 
 
 
@@ -944,6 +948,17 @@ h6,
 #ext_menu-i .link[aria-expanded="true"],
 #ext_menu-i .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#header3-o .mbr-section-title,
+#header3-o .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-o H3 {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#header3-o SMALL {
+  color: #ffffff;
 }
 #extHeader12-m P {
   font-size: 20px;
