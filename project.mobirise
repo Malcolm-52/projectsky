@@ -1,0 +1,765 @@
+{
+  "settings": {
+    "name": "Home Works",
+    "currentPage": "home.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Ubuntu",
+        "subtitleFont": "PT Serif",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 23,
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "mcShopcart": {
+      "email": "malcolmsilis@gmail.com",
+      "iconSize": "40",
+      "iconColor": "#28324e",
+      "backColor": "#fac51c",
+      "topOffset": "120",
+      "rightOffset": "20",
+      "siteWidth": "1150",
+      "counterSize": "13",
+      "counterColor": "#FFFFFF",
+      "counterBack": "#d14841",
+      "checkoutButton": "Check Out with"
+    }
+  },
+  "pages": {
+    "basins.html": {
+      "settings": {
+        "title": "Bathroom Basins",
+        "meta_descr": "Bathroom Basins"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "25px"
+            },
+            ".navbar-toggler": {
+              "color": "#f7da64"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#f7da64"
+            },
+            ".link, .dropdown-item": {
+              "color": "#f7da64",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-family": "'Ubuntu', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#8f2625"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#ac2e2c!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#b8312f"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#f7da64",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-g",
+          "_params": {
+            "bgColor": "#b8312f",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Ubuntu",
+              "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "css": "'Ubuntu', sans-serif"
+            },
+            "fontColor": "#f7da64",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.smh.com.au\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BUILD WORKS - YOU WON'T GET IT ANY CHEAPER!</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"www.smh.com.au\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">BATHROOMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"basins.html\">Washbasins</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Baths</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"toilet.html\">Toilets</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"www.smh.com.au\" data-toggle=\"dropdown-submenu\">KITCHEN &amp; LAUNDRY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Sinks</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"www.smh.com.au\" data-toggle=\"dropdown-submenu\">HEATING &amp; COOLING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Water Heaters</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://mobirise.com/\">DOWNLOAD SPECS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">ADD TO CART</a></li>"
+        }
+      ]
+    },
+    "home.html": {
+      "settings": {
+        "main": true,
+        "title": "home page",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "25px"
+            },
+            ".navbar-toggler": {
+              "color": "#f7da64"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#f7da64"
+            },
+            ".link, .dropdown-item": {
+              "color": "#f7da64",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-family": "'Ubuntu', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#8f2625"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#ac2e2c!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#b8312f"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#f7da64",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-7",
+          "_params": {
+            "bgColor": "#b8312f",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Ubuntu",
+              "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "css": "'Ubuntu', sans-serif"
+            },
+            "fontColor": "#f7da64",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.smh.com.au\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BUILD WORKS - YOU WON'T GET IT ANY CHEAPER!</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"www.smh.com.au\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">BATHROOMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"basins.html\">Washbasins</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Baths</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"toilet.html\">Toilets</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"www.smh.com.au\" data-toggle=\"dropdown-submenu\">KITCHEN &amp; LAUNDRY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Sinks</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"www.smh.com.au\" data-toggle=\"dropdown-submenu\">HEATING &amp; COOLING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Water Heaters</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://mobirise.com/\">DOWNLOAD SPECS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">ADD TO CART</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            ".btn": {
+              "font-size": "14px"
+            },
+            "P": {
+              "font-size": "60px",
+              "color": "#b8312f"
+            },
+            "H4": {
+              "font-size": "22px"
+            },
+            "H5": {
+              "font-size": "16px"
+            },
+            "B": {
+              "font-size": "60px",
+              "color": "#b8312f"
+            },
+            "SPAN": {
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "features3-k",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fac51c",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/p3-comfort-btw-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "toilet.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Duravit P3 Comforts Back to Wall Toilet",
+          "subtitle1": "<span style=\"font-size: 16px; line-height: 1.7857;\">Rimless, close coupled back to wall toilet</span><br><div>Retails for $1299.<br>Product code: D4500200</div><div>Our price…</div>",
+          "caption1": "<b>$699</b><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=699&amp;item_name=Duravit+P3+Comforts+Back+to+Wall+Toilet&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a> <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=699&amp;item_name=Duravit+P3+Comforts+Back+to+Wall+Toilet&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/alva60kit-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Allvent A60 Ventilation Kit",
+          "subtitle2": "80cm cabinet, large capacity double bowl undermount sink.<br>Retails for $759.<br>Product code: D2300430<br>Our price…",
+          "caption2": "<b>$259</b>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=259&amp;item_name=Blanco+Niagara+U2+Double+Bowl+Undermount+Sink&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a> <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=259&amp;item_name=Blanco+Niagara+U2+Double+Bowl+Undermount+Sink&amp;currency_code=AUD\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "media3": {
+            "image": {
+              "src": "file:///Users/malcolm/Library/Application%20Support/Mobirise.com/Mobirise/projectData/ellipso-duo2-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Kaldewei Ellipso Duo Island Bath",
+          "subtitle3": "The Kaldewei Ellipso Duo bath incorporates gently shaped shoulder rests for more pleasure and comfort.<br>Retails for $1200.<br>Our price…",
+          "caption3": "<b>$700</b>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=700&amp;item_name=Kaldewei+Ellipso+Duo+Island+Bath&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a> <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=700&amp;item_name=Kaldewei+Ellipso+Duo+Island+Bath&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "media4": {
+            "image": {
+              "src": "file:///Users/malcolm/Library/Application%20Support/Mobirise.com/Mobirise/projectData/rheem-stellar-ss-315l-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Rheem Stellar® SS Electric Storage Water Heater - 315L",
+          "subtitle4": "Stainless steel. Dual handed connection. 4.8kW rating. Hardwired<br>Retails for $1087.<br>Our price…",
+          "caption4": "<b>$834</b>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=834&amp;item_name=Rheem+Stellar%C2%AE+SS+Electric+Storage+Water+Heater+-+315L&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a> <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=834&amp;item_name=Rheem+Stellar%C2%AE+SS+Electric+Storage+Water+Heater+-+315L&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            ".btn": {
+              "font-size": "14px"
+            },
+            "P": {
+              "font-size": "60px",
+              "color": "#b8312f"
+            },
+            "H4": {
+              "font-size": "22px"
+            },
+            "H5": {
+              "font-size": "16px"
+            },
+            "B": {
+              "font-size": "60px",
+              "color": "#b8312f"
+            },
+            "SPAN": {
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "features3-f",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fac51c",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/duravit-happy-d-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Duravit Happy D.2 Wall Hung Washbasin",
+          "subtitle1": "A chic, versatile and timelessly <br>modern collection.<br>Product code: D2300430<br>Retails for $599.<br>Our price…",
+          "caption1": "<b>$300</b><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=300&amp;item_name=Duravit+Happy+D.2+Wall+Hung+Washbasin&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a> <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=300&amp;item_name=Duravit+Happy+D.2+Wall+Hung+Washbasin&amp;currency_code=AUD\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/niagrau2k5-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Blanco Niagara U2 Double Bowl Undermount Sink",
+          "subtitle2": "80cm cabinet, large capacity double bowl undermount sink.<br>Product code: D2300430<br>Retails for $759.<br>Our price…",
+          "caption2": "<b>$259</b>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=259&amp;item_name=Blanco+Niagara+U2+Double+Bowl+Undermount+Sink&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a> <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=259&amp;item_name=Blanco+Niagara+U2+Double+Bowl+Undermount+Sink&amp;currency_code=AUD\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ellipso-duo2-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Kaldewei Ellipso Duo Island Bath",
+          "subtitle3": "The Kaldewei Ellipso Duo bath incorporates gently shaped shoulder rests for more pleasure and comfort.<br>Product code: D2300430<br>Retails for $1200.<br>Our price…",
+          "caption3": "<b>$700</b>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=700&amp;item_name=Kaldewei+Ellipso+Duo+Island+Bath&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a> <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=700&amp;item_name=Kaldewei+Ellipso+Duo+Island+Bath&amp;currency_code=AUD\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/rheem-stellar-ss-315l-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Rheem Stellar® SS Electric Storage Water Heater - 315L",
+          "subtitle4": "Stainless steel. Dual handed connection. 4.8kW rating. Hardwired<br>Product code: D2300430<br>Retails for $1087.<br>Our price…",
+          "caption4": "<b>$834</b>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=834&amp;item_name=Rheem+Stellar%C2%AE+SS+Electric+Storage+Water+Heater+-+315L&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a> <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=834&amp;item_name=Rheem+Stellar%C2%AE+SS+Electric+Storage+Water+Heater+-+315L&amp;currency_code=AUD\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-b",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#b8312f",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Build Works&nbsp;| ABN: 99 123 456 789"
+        }
+      ]
+    },
+    "toilet.html": {
+      "settings": {
+        "title": "Build Works Toilet",
+        "meta_descr": "Site Creator Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "25px"
+            },
+            ".navbar-toggler": {
+              "color": "#f7da64"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#f7da64"
+            },
+            ".link, .dropdown-item": {
+              "color": "#f7da64",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-family": "'Ubuntu', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#8f2625"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#ac2e2c!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#b8312f"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#f7da64",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-i",
+          "_params": {
+            "bgColor": "#b8312f",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Ubuntu",
+              "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "css": "'Ubuntu', sans-serif"
+            },
+            "fontColor": "#f7da64",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.smh.com.au\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BUILD WORKS - YOU WON'T GET IT ANY CHEAPER!</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"www.smh.com.au\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">BATHROOMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"basins.html\">Washbasins</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Baths</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"toilet.html\">Toilets</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"www.smh.com.au\" data-toggle=\"dropdown-submenu\">KITCHEN &amp; LAUNDRY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Sinks</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"www.smh.com.au\" data-toggle=\"dropdown-submenu\">HEATING &amp; COOLING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Water Heaters</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://mobirise.com/\">DOWNLOAD SPECS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">ADD TO CART</a></li>"
+        },
+        {
+          "bgTextP": "ANIMATED TEXT BACKGROUND",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader12",
+          "_styles": {
+            "P": {
+              "font-size": "20px",
+              "text-align": "left"
+            },
+            "H3": {
+              "color": "#28324e"
+            },
+            "B": {
+              "color": "#475577",
+              "text-align": "left"
+            },
+            ".btn": {
+              "font-size": "14px"
+            },
+            "I": {
+              "font-size": "60px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#b8312f",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "extHeader12-m",
+          "_params": {
+            "imageSize": "68",
+            "bgText": "Duravit P3",
+            "bgTextStyle": "Montserrat",
+            "bgTextColor": "#ffffff",
+            "bgTextSize": 250,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/malcolm/Library/Application%20Support/Mobirise.com/Mobirise/projectData/img_extMsg-box1_bg_5.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.7,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/p3-comfort-btw-1400x1400-5.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Duravit P3 Comforts Back to Wall Toilet<br>",
+          "text": "<b>RIMLESS, CLOSE COUPLED <br>BACK TO WALL TOILET</b><br><b><i>$699.00</i></b><br>RETAILS FOR $1299.00<br><br>The Duravit P3 Comforts Rimless Back to Wall Toilet. Re-defining comfort. The P3 Comforts offers generous surface areas for bathroom essentials and elegant design with gently curved edges and soft pleasant transitions.<br><br>Duravit P3 Comforts Rimless Toilet greater comfort and hygiene<br><br>Product code: D4500200<br>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1299&amp;item_name=Duravit+P3+Comforts+Back+to+Wall+Toilet&amp;currency_code=AUD\">ADD TO CART</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-b",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#b8312f",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Build Works&nbsp;| ABN: 99 123 456 789"
+        }
+      ]
+    }
+  }
+}
