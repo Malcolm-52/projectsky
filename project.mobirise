@@ -313,7 +313,7 @@
           "title1": "Duravit P3 Comforts Back to Wall Toilet",
           "subtitle1": "<span style=\"font-size: 16px; line-height: 1.7857;\">Rimless, close coupled back to wall toilet</span><br><div>Retails for $1299.<br>Product code: D4500200</div><div>Our price…</div>",
           "caption1": "<b>$699</b><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=699&amp;item_name=Duravit+P3+Comforts+Back+to+Wall+Toilet&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a> <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=699&amp;item_name=Duravit+P3+Comforts+Back+to+Wall+Toilet&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=699&amp;item_name=Duravit+P3+Comforts+Back+to+Wall+Toilet&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a> <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=699&amp;item_name=Duravit+P3+Comforts+Back+to+Wall+Toilet&amp;currency_code=AUD\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/alva60kit-600x600.jpg",
@@ -452,7 +452,7 @@
           "title1": "Duravit Happy D.2 Wall Hung Washbasin",
           "subtitle1": "A chic, versatile and timelessly <br>modern collection.<br>Product code: D2300430<br>Retails for $599.<br>Our price…",
           "caption1": "<b>$300</b><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=300&amp;item_name=Duravit+Happy+D.2+Wall+Hung+Washbasin&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a> <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=300&amp;item_name=Duravit+Happy+D.2+Wall+Hung+Washbasin&amp;currency_code=AUD\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=300&amp;item_name=Duravit+Happy+D.2+Wall+Hung+Washbasin&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a> <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=300&amp;item_name=Duravit+Happy+D.2+Wall+Hung+Washbasin&amp;currency_code=AUD\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/niagrau2k5-600x600.jpg",
@@ -500,7 +500,7 @@
           "title4": "Rheem Stellar® SS Electric Storage Water Heater - 315L",
           "subtitle4": "Stainless steel. Dual handed connection. 4.8kW rating. Hardwired<br>Product code: D2300430<br>Retails for $1087.<br>Our price…",
           "caption4": "<b>$834</b>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=834&amp;item_name=Rheem+Stellar%C2%AE+SS+Electric+Storage+Water+Heater+-+315L&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a> <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=834&amp;item_name=Rheem+Stellar%C2%AE+SS+Electric+Storage+Water+Heater+-+315L&amp;currency_code=AUD\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=834&amp;item_name=Rheem+Stellar%C2%AE+SS+Electric+Storage+Water+Heater+-+315L&amp;currency_code=AUD\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a> <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=834&amp;item_name=Rheem+Stellar%C2%AE+SS+Electric+Storage+Water+Heater+-+315L&amp;currency_code=AUD\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
