@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Home Works",
-    "currentPage": "home.html",
+    "currentPage": "toilet.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -741,7 +741,7 @@
           },
           "_anchor": "extHeader12-m",
           "_params": {
-            "imageSize": "68",
+            "imageSize": "62",
             "bgText": "Duravit P3",
             "bgTextStyle": "Montserrat",
             "bgTextColor": "#ffffff",
@@ -788,7 +788,7 @@
           },
           "title": "Duravit P3 Comforts Back to Wall Toilet<br>",
           "text": "<b>RIMLESS, CLOSE COUPLED <br>BACK TO WALL TOILET</b><br><b><i>$699.00</i></b><br>RETAILS FOR $1299.00<br><br>The Duravit P3 Comforts Rimless Back to Wall Toilet. Re-defining comfort. The P3 Comforts offers generous surface areas for bathroom essentials and elegant design with gently curved edges and soft pleasant transitions.<br><br>Duravit P3 Comforts Rimless Toilet greater comfort and hygiene<br><br>Product code: D4500200<br>",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1299&amp;item_name=Duravit+P3+Comforts+Back+to+Wall+Toilet&amp;currency_code=AUD\">ADD TO CART</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=699&amp;item_name=Duravit+P3+Comforts+Back+to+Wall+Toilet&amp;currency_code=AUD\">BUY NOW</a> <a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1299&amp;item_name=Duravit+P3+Comforts+Back+to+Wall+Toilet&amp;currency_code=AUD\">ADD TO CART</a>"
         },
         {
           "_tags": [
