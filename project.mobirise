@@ -30,8 +30,8 @@
     "mcShopcart": {
       "email": "malcolmsilis@gmail.com",
       "iconSize": "40",
-      "iconColor": "#28324e",
-      "backColor": "#fac51c",
+      "iconColor": "#fac51c",
+      "backColor": "#000000",
       "topOffset": "120",
       "rightOffset": "20",
       "siteWidth": "1150",
